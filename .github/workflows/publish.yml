@@ -35,7 +35,7 @@ jobs:
       
       - name: List files in the repository
         run: |
-            ls ${{ github.workspace }}
+            ls ${{ github.workspace }}/out
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
