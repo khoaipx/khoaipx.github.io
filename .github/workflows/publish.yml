@@ -33,8 +33,9 @@ jobs:
       - name: Build with Next.js 🏗️
         run: npx next build
       
-      - name: Check existance
-        run: ls ./out
+      - name: List files in the repository
+        run: |
+            ls ${{ github.workspace }}
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
