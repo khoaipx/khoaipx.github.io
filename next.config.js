@@ -9,7 +9,15 @@ const nextConfig = {
     images: {
         unoptimized: true
     }
-}
+  },
+  async rewrites(params) {
+    return [
+      {
+        source: '/',
+        destination: '/out/server/pages/index.html',
+      },
+    ]
+  }
 }
 
 module.exports = nextConfig
