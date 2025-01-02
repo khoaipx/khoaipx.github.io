@@ -4,8 +4,6 @@ const nextConfig = {
     images: {
       unoptimized: true,
     },
-    //assetPrefix: './public/assets',
-    //basePath: '', // Để lại rỗng nếu deploy vào repo root
   };
   
   module.exports = nextConfig;

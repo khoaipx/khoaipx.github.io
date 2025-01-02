@@ -6,7 +6,7 @@ import { useRef, useState } from 'react';
 const Avatar = () => {
   const typingIntervalRef = useRef(null);
   const [typedText, setTypedText] = useState('');
-  const fullText = "Hey, It's so nice to see you here, thanks for visiting !";
+  const fullText = "Hey, My name is Pham Xuan Khoai, thanks for visiting!";
 
   const handleMouseEnter = () => {
     startTypingAnimation();
