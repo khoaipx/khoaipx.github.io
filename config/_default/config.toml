@@ -12,5 +12,8 @@ summaryLength = 0
 [pagination]
   pagerSize = 10
 
+[permalinks]
+  posts = "/blog/:year/:month/:day/:slug/"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]

@@ -4,7 +4,7 @@ description: "Resume"
 layout: "simple"
 ---
 
-## Experience
+## 💼 Experience
 
 - ### [TopCV Joint-stock Company](https://topcv.com.vn/)
     
@@ -31,7 +31,7 @@ layout: "simple"
     - **Machine Learning Engineer** (Mar. 2016 - Aug. 2016)
 
 
-## Education
+## 🏫 Education
 
 - ### [City University of Hong Kong](https://www.cityu.edu.hk/)
 
@@ -51,7 +51,7 @@ layout: "simple"
 
         - GPA: 8.63/10
 
-## Publication
+## 📝 Publication
 
 - #### [Building a Spoonerism Detection System for Vietnamese](https://aclanthology.org/Y18-1063/)
     
@@ -77,7 +77,7 @@ layout: "simple"
 
     - Proceedings of the 10th International Conference on Digital Information Management, *Jeju Islands, South Korea*, IEEE, 2015
 
-## Achievement
+## 🏅 Achievement
 
 - **Third Prize (Rank 10)**, ACM-ICPC Asian Regional Contest (site Vietnam) - 2015
 

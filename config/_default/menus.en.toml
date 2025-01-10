@@ -16,13 +16,13 @@
   weight = 1
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Projects"
+  pageRef = "projects"
   weight = 2
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Blogs"
+  pageRef = "blogs"
   weight = 3
 
 [[main]]
