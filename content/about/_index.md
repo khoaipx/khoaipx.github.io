@@ -6,46 +6,46 @@ layout: "simple"
 
 ## 💼 Experience
 
-- ### [TopCV Joint-stock Company](https://topcv.com.vn/)
+- ### [TopCV Vietnam Joint Stock Company](https://topcv.com.vn/)
     
-    - **Data Science Manager** (Jun. 2022 - Present)
+    - **Data Science Manager** (07/2022 - Present)
     
-    - **Product R&D Manager** (Oct. 2020 - Jun. 2022)
+    - **Product R&D Manager** (10/2020 - 06/2022)
     
-    - **AI Engineer** (Jan. 2020 - Dec. 2021)
+    - **AI Engineer** (01/2020 - 09/2020)
 
 - ### [YBox Menteelogy](https://menteelogy.ybox.vn/)
 
-    - **Mentor** (Mar. 2023 - Aug. 2024)
+    - **Mentor** (03/2023 - 08/2024)
 
 - ### [Finsify Limited Company](https://finsify.com/)
 
-    - **Data Scientist/Lead of AI Team** (Sep. 2017 - Aug. 2018)
+    - **Data Scientist/Lead of AI Team** (09/2017 - 08/2018)
 
 - ### [VNG Corporation](https://www.vng.com.vn/)
 
-    - **Research Scientist** (Aug. 2016 - Apr. 2017)
+    - **Research Scientist** (08/2016 - 04/2017)
 
 - ### RichAnchor Technology
 
-    - **Machine Learning Engineer** (Mar. 2016 - Aug. 2016)
+    - **Machine Learning Engineer** (03/2016 - 08/2016)
 
 
 ## 🏫 Education
 
 - ### [City University of Hong Kong](https://www.cityu.edu.hk/)
 
-    - **Ph.D. Student in Computer Science** (Sep. 2018 - Dec.2019)
+    - **Ph.D. Student in Computer Science** (09/2018 - 12/2019)
 
         - Research topic: Multi-modal dialogue system
 
         - Supervisor: [Prof. Chong-Wah Ngo](https://scholar.google.com/citations?user=HM39HrUAAAAJ&hl=en)
 
-        - Status: Incomplete
+        - Status: Left program to pursue industry
 
 - ### [FPT University](https://daihoc.fpt.edu.vn/)
 
-    - **Bachelor's Degree in Computer Science** (Sep. 2011 - Dec. 2015)
+    - **Bachelor's Degree in Computer Science** (09/2011 - 12/2015)
 
         - Capstone Project: [Building a Semantic Role Labelling Toolkit for Vietnamese](http://ds.libol.fpt.edu.vn/handle/123456789/1539)
 
@@ -63,13 +63,13 @@ layout: "simple"
 
     - **Thai-Hoang Pham, Xuan-Khoai Pham, Tuan-Anh Nguyen, Phuong Le-Hong**
 
-    - Proceedings of the 8th International Joint Conference on Natural Language Processing, *Tapei, Taiwan*, ACL Anthology, 2017
+    - Proceedings of the 8th International Joint Conference on Natural Language Processing, *Taipei, Taiwan*, ACL Anthology, 2017
 
 - #### [On the Use of Machine Translation-Based Approaches for Vietnamese Diacritic Restoration](https://ieeexplore.ieee.org/document/8300596)
 
     - **Thai-Hoang Pham, Xuan-Khoai Pham, Phuong Le-Hong**
 
-    - Proceedings of the 21th International Conference on Asian Language Processing, *Singapore*, IEEE, 2017
+    - Proceedings of the 21st International Conference on Asian Language Processing, *Singapore*, IEEE, 2017
 
 - #### [Building a semantic role labelling system for Vietnamese](https://ieeexplore.ieee.org/document/7381877)
 
