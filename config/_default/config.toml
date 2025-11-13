@@ -16,4 +16,4 @@ summaryLength = 0
   posts = "/blog/:year/:month/:day/:slug/"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]

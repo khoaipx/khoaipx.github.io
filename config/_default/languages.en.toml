@@ -15,13 +15,14 @@ title = "Pham Xuan Khoai"
 [params.author]
   name = "Pham Xuan Khoai"
   image = "images/icons/khoai-logo.png"
-  headline = "Data Science Manager"
-  bio = "Data Scientist"
+  headline = "Data Science Manager | AI Practitioner | Team Builder"
+  bio = "8+ years building impactful AI solutions | Leading teams of 13+ members | 4 published research papers | Transforming businesses through data-driven innovation"
   links = [
     { linkedin = "https://linkedin.com/in/khoaipx93" },
     { email = "mailto:phamxuankhoai@gmail.com" },
     { telegram = "https://t.me/khoaipx" },
-  #  { link = "https://khoaipx.github.io/" },
+  #  { link = "https://khoaipx.com/" },
+    { github = "https://github.com/khoaipx" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -32,7 +33,6 @@ title = "Pham Xuan Khoai"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },

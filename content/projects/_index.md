@@ -1,8 +1,4 @@
 ---
 title: "Projects"
-
+description: Things I’ve released into the world
 ---
-
-{{<lead>}}
-Things I’ve released into the world
-{{</lead>}}

@@ -1,11 +1,7 @@
 ---
 title: "Blogs"
-
+description: "Insights on Data Science, AI, Leadership, and Career Development | Sharing practical experiences, technical learnings, and industry perspectives"
 cascade:
   showEdit: false
   showSummary: true
 ---
-
-{{<lead>}}
-My thoughts, ideas and experiences with the things I find interesting
-{{</lead>}}
